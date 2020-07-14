@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://newmod-vip.web.app/author/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="https://newmod-vip.web.app/br/author/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://newmod-vip.web.app/author/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://newmod-vip.web.app/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="https://newmod-vip.web.app/br/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://newmod-vip.web.app/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://newmod-vip.web.app/author/john-doe/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="https://newmod-vip.web.app/br/author/john-doe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://newmod-vip.web.app/author/john-doe/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://newmod-vip.web.app/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="https://newmod-vip.web.app/br/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://newmod-vip.web.app/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://newmod-vip.web.app/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="https://newmod-vip.web.app/br/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://newmod-vip.web.app/tags/"
+                />
+  </url>
+  
+</urlset>
